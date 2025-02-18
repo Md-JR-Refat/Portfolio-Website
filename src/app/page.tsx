@@ -190,7 +190,7 @@ export default function Home() {
             
           </Section>
 
-          {/* Work Experience Section */}
+          {/* Work Experience Section
           <Section title="Professional Experience" icon={<BriefcaseIcon className="w-5 h-5" />}>
             <Experience
               position="Educational Content Developer"
@@ -202,7 +202,7 @@ export default function Home() {
                 "Implemented digital assessment system using Testmoz"
               ]}
             />
-          </Section>
+          </Section> */}
         </div>
       </main>
     </PageTransition>
