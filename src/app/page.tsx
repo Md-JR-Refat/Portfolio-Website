@@ -185,7 +185,7 @@ export default function Home() {
               title="Portfolio Website"
               tech="HTML · CSS · JavaScript"
               description="This is my portfolio website that I created using HTML, CSS, and JavaScript. It is a simple and clean website that showcases my projects and skills."
-              link="https://Md-JR-Refat.github.io/Portfolio-Website/"
+              link="https://github.com/Md-JR-Refat/Portfolio-Website"
             />
             
           </Section>
